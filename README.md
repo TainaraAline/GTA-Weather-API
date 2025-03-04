@@ -1,6 +1,6 @@
 # GTA Weather API
 
-[![Live Demo](https://github.com/TainaraAline/GTA-Weather-API/blob/main/assets/images/banner.png)](https://TainaraAline.github.io/GTA-Weather-API/)
+[![Live Demo](public/assets/images/banner.png)](https://TainaraAline.github.io/GTA-Weather-API/)
 
 A simple weather application that fetches real-time weather data using a weather API. Users can select a city from the Greater Toronto Area (GTA) and get the latest weather updates.
 
